@@ -1,2 +1,2 @@
-# solvia_backend
+# prisma_backend
 Laravel proyect
